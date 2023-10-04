@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: プライバシーポリシー
+Template Name: プライバシーポリシー_test
 */
 ?><?php get_header(); ?>
 	<article class="gPage">

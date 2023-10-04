@@ -23,3 +23,20 @@ Theme Name: ryobi-holdings
 .snsicon-2{ bottom: 170px; }
 .snsicon-3{ bottom: 130px; }
 .snsicon-4{ bottom: 90px; }
+
+table.privacy_table{
+	margin: 0 0 50px;
+	border-top:solid 1px #666 ;
+	border-left:solid 1px #666 ;
+}
+table.privacy_table td{
+	border-bottom:solid 1px #666 ;
+	border-right:solid 1px #666 ;
+	padding: 10px;
+	vertical-align: top;
+}
+table.privacy_table th{
+	border-bottom:solid 1px #666 ;
+	border-right:solid 1px #666 ;
+	text-align: center;
+}

@@ -34,6 +34,7 @@ table.privacy_table td{
 	border-right:solid 1px #666 ;
 	padding: 10px;
 	vertical-align: top;
+	width: 50%;
 }
 table.privacy_table th{
 	border-bottom:solid 1px #666 ;

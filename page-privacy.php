@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: プライバシーポリシー
+Template Name: プライバシーポリシー_test
 */
 ?><?php get_header(); ?>
 	<article class="gPage">
@@ -22,10 +22,7 @@ Template Name: プライバシーポリシー
 						<h2 class="modTitle03 -mbNone"><span class="modTitle03__inner">1.基本方針</span></h2>
 					</header>
 					<div class="modBlockSection__body">
-						<p class="modTxtCenter">両備ホールディングス株式会社<br class="modSpOnly">(以下、「当社」という。)は、<br>
-						個人情報(個人に関する情報であって、<br class="modSpOnly">個人が識別可能なものをいう。)に関する<br class="modSpOnly">法令及び社内規程等を遵守し、<br class="modPcOnly">
-						当社で取扱<br class="modSpOnly">う個人情報の収集及び利用を適正に行うとともに、<br>
-						個人情報を安全かつ最新の状態で管理し、<br class="modSpOnly">適正に廃棄することで、お客様の個人情報を守り、<br class="modSpOnly">その信頼に応えます。 </p>
+						<p>両備ホールディングス株式会社(以下、「当社」という。)は、個人情報(個人に関する情報であって、個人が識別可能なものをいう。)に関する法令及び社内規程等を遵守し、当社で取扱う個人情報の収集及び利用を適正に行うとともに、個人情報を安全かつ最新の状態で管理し、適正に廃棄することで、お客様の個人情報を守り、その信頼に応えます。 </p>
 					</div>
 				</div>
 			</section>
@@ -35,12 +32,11 @@ Template Name: プライバシーポリシー
 						<h2 class="modTitle03 -mbNone"><span class="modTitle03__inner">2.組織活動</span></h2>
 					</header>
 					<div class="modBlockSection__body">
-						<p class="modTxtCenter">基本方針を具体化するため以下の活動を行います。<br class="modSpOnly">個人情報に関する法令等を遵守します。<br>
-						個人情報の取扱いに関する社内規程を制定するとともに、<br>
-						個人情報を取扱うシステム・業務毎に<br class="modSpOnly">必要なルール等を策定し、これを遵守します。<br>
-						個人情報が適正に取扱われているかどうか、<br class="modSpOnly">定期的にチェックを行い、<br class="modSpOnly">問題がある場合には改善指導します。<br>
-						当社グループ会社、取引のある企業及び個人等に対し、<br class="modSpOnly">社内規程の目的達成のための協力を要請します。<br>
-						本基本方針は、当社のホームページに<br class="modSpOnly">掲載することなどにより、<br class="modSpOnly">いつでも閲覧可能な状態とします。</p>
+						<p>基本方針を具体化するため以下の活動を行います。個人情報に関する法令等を遵守します。<br>
+						個人情報の取扱いに関する社内規程を制定するとともに、個人情報を取扱うシステム・業務毎に必要なルール等を策定し、これを遵守します。<br>
+						個人情報が適正に取扱われているかどうか、定期的にチェックを行い、問題がある場合には改善指導します。<br>
+						当社グループ会社、取引のある企業及び個人等に対し、社内規程の目的達成のための協力を要請します。<br>
+						本基本方針は、当社のホームページに掲載することなどにより、いつでも閲覧可能な状態とします。</p>
 					</div>
 				</div>
 			</section>
@@ -50,7 +46,7 @@ Template Name: プライバシーポリシー
 						<h2 class="modTitle03 -mbNone"><span class="modTitle03__inner">3.個人情報の取扱いについて</span></h2>
 					</header>
 					<div class="modBlockSection__body">
-						<p class="modTxtCenter myText">個人情報の取扱いについて以下の原則の実現に努めます。</p>
+						<p class="modTxtCenter myText modTitle04" style="margin-bottom:50px;">個人情報の取扱いについて以下の原則の実現に努めます。</p>
 						<div class="modBlockSmallWrap">
 							<section class="modBLock01">
 								<h3 class="modTitle04">1.当社の個人情報保護管理体制</h3>
@@ -206,8 +202,9 @@ Template Name: プライバシーポリシー
 							</section>
 							<section class="modBLock01">
 								<h3 class="modTitle04">5.開示等及び苦情相談の手続き</h3>
-								<p>（1）手続き方法<br>
+								<p>手続き方法<br>
 								保有個人データに関する開示等のご請求、及び当社の個人情報の取扱いの苦情相談の手続き方法は下記の通りです。</p>
+								<br>
 								<p>・記入用紙のご請求<br>
 								上記「3.個人情報保護に関する担当窓口」に記した当社担当窓口宛に、申請に必要な記入用紙をご請求ください。当社では、ご請求時にご指定をいただいた住所宛に記入用紙を送付いたします。</p>
 								<p>・開示等のご請求及び苦情相談<br>
@@ -241,7 +238,9 @@ Template Name: プライバシーポリシー
 								法定代理権を有することを確認するための書類（3ヶ月以内に発行された戸籍謄本、親権者の場合は扶養家族（子）が記載された有効期限内の保険証の写しも可）</p>
 								<p>２．委任による代理人の場合<br>
 								印鑑証明の印鑑を押印した委任状及び本人の印鑑証明書（発行後3ヶ月以内のもの）</p>
-								<p>注意事項3：手数料<br>
+							</section>
+							<section class="modBLock01">
+								<h3 class="modTitle04">注意事項3：手数料</h3>
 								利用目的の通知請求又は開示請求、訂正等、利用停止等、苦情及び相談は無料です。</p>
 							</section>
 						</div>

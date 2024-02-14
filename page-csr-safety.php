@@ -66,14 +66,13 @@ Template Name: 両備ホールディングスのCSR - 安全への取り組み
 					</header>
 					<div class="modBlockSection__body">
 						<p class="modTxtCatch myText jsFadeUp">
-							お客様へのホスピタリティを高めよう！ ～ 優しい運転、優しい接客を追求する<br>
-							皆でアサーション！ 事故を未然に防ごう！ ～ 明るくて、ものが言える職場環境を作る<br><!-- <br class="modSpOnly"> -->
-							両備新交通三悪を撲滅しよう！ ～ 一人ひとりがプロ意識を高め、ルールを遵守する
+							プロとして「安全・安心」を極める<br>
+							常におもてなしの心を持ち、いつもやさしい運転をしよう！<!-- <br class="modSpOnly"> -->
 						</p>
 						<div class="myPhoto jsFadeUp">
 							<picture>
-								<source srcset="<?php echo get_template_directory_uri(); ?>/assets/img/csr/safety/img_slogan_sp2023.png" media="(max-width:768px)">
-								<img src="<?php echo get_template_directory_uri(); ?>/assets/img/csr/safety/img_slogan_pc2023.png" alt="両備グループ安全マネジメント委員会スローガンのイメージ画像">
+								<source srcset="<?php echo get_template_directory_uri(); ?>/assets/img/csr/safety/img_slogan_sp2024.png" media="(max-width:768px)">
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/img/csr/safety/img_slogan_pc2024.png" alt="両備グループ安全マネジメント委員会スローガンのイメージ画像">
 							</picture>
 						</div>
 					</div>

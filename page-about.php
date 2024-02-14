@@ -190,14 +190,14 @@ Template Name: 会社概要
 														</ul>
 													</dd>
 												</div>
-												<div class="myDlistIn__item">
+												<!--<div class="myDlistIn__item">
 													<dt class="myDlistIn__header">取締役</dt>
 													<dd class="myDlistIn__body">
 														<ul>
 															<li><span class="name">高祖　日出夫</span></li>
 														</ul>
 													</dd>
-												</div>
+												</div>-->
 												<div class="myDlistIn__item">
 													<dt class="myDlistIn__header">常勤監査役</dt>
 													<dd class="myDlistIn__body">

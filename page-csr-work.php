@@ -29,7 +29,7 @@ Template Name: 両備ホールディングスのCSR - 行動計画
 							</p>
 						</div>
 						<div class="myBlock jsFadeUp">
-							<h3 class="modTitle04 -bold -indent01"><span class="num">1</span>計画期間：<br class="modSpOnly">令和4年4月1日　～　<br class="modSpOnly">令和6年3月31日（2年間）</h3>
+							<h3 class="modTitle04 -bold -indent01"><span class="num">1</span>計画期間：<br class="modSpOnly">令和6年4月1日　～　<br class="modSpOnly">令和8年3月31日（2年間）</h3>
 						</div>
 						<div class="myBlock jsFadeUp">
 							<h3 class="modTitle04 -bold -indent01"><span class="num">2</span>両備ホールディングス株式会社の課題</h3>
@@ -46,48 +46,52 @@ Template Name: 両備ホールディングスのCSR - 行動計画
 								<div class="myBlock01">
 									<div class="myBlock01__header">
 										<span style="border: 1px #231815 solid; padding: 5px;margin-bottom: 10px; display: inline-block;">目標1：管理職に占める女性の割合を 9％以上にする</span>
-										<p>【取組：女性社員に対して、積極的に情報共有・意見交換ができる機会を提供していくことで、女性活躍推進の流れを加速しつつ、男女の区別なく活躍できる組織づくりを促進】</p>
+										<p>【取組：社内プロジェクトチームを発足し、課題の分析や施策の検討行うことで、女性活躍推進の流れを加速しつつ、男女の区別なく活躍できる組織づくりを促進】</p>
 									</div>
 									<ul class="modList01">
-										<li><span class="inner"><span class="day">令和4年<br class="modSpOnly">8月~</span><span class="txt">・社員満足度調査や異動希望調査により、社員のニーズを把握<br>
-										・必要に応じてヒアリング実施 </span></span></li>
-										<li><span class="inner"><span class="day">令和4年<br class="modSpOnly">10月～</span><span class="txt">・経営者層や両備グループ人財委員会等との意見交換会を実施し、組織の状況や方向性を把握</span></span></li>
-										<li><span class="inner"><span class="day">令和5年<br class="modSpOnly">1月～</span><span class="txt">・管理者クラスの社員対象に、ダイバーシティマネジメント研修を実施し、グループ／会社／自部門の課題認識と対策検討の機会を提供</span></span></li>
-										<li><span class="inner"><span class="day">令和5年<br class="modSpOnly">4月～</span><span class="txt">・キャリアセミナーや座談会を企画・実施し、キャリアアップについての情報提供や意見交換の機会を提供</span></span></li>
+										<li><span class="inner"><span class="day">令和6年<br class="modSpOnly">4月~</span><span class="txt">・女性活躍のためのプロジェクトチームの発足<br>
+										①阻害要因の洗い出し<br>
+										②課題の分析<br>
+										③施策検討<br></span></span></li>
+										<li><span class="inner"><span class="day">令和6年<br class="modSpOnly">8月～</span><span class="txt">・社員満足度調査や異動希望調査により、社員のニーズを把握 <br>
+										・必要に応じてヒアリング実施</span></span></li>
+										<li><span class="inner"><span class="day">令和7年<br class="modSpOnly">1月～</span><span class="txt">・管理者クラスの社員対象に、ダイバーシティマネジメント研修を実施し、グループ／会社／自部門の課題認識と対策検討の機会を提供</span></span></li>
 									</ul>
 								</div>
 							</div>
 							<div class="jsFadeUp">
 								<div class="myBlock01">
 									<div class="myBlock01__header" style="margin-bottom: 0">
-										<span style="border: 1px #231815 solid; padding: 5px;margin-bottom: 10px; display: inline-block;">目標2：技術系職種（運転職・整備職・専門技術職）の採用者に占める女性比率を 5％以上にする</span>
+										<span style="border: 1px #231815 solid; padding: 5px;margin-bottom: 10px; display: inline-block;">目標2：技術系職種（運転職・整備職・専門技術職）の採用者に占める女性比率を 15％以上にする</span>
 										<p>【取組：採用数拡大、社員定着、受入側の意識改革に向けた取り組み】</p>
 									</div>
 									<ul class="modList01">
-										<li><span class="inner"><span class="day">令和4年<br class="modSpOnly">4月～</span><span class="txt">・女性の応募者数を増やすため、会社ホームページ採用サイトの内容等告知の見直し<br>
-										・リクルーターを選任、技術系職種の魅力を発信</span></span></li>
-										<li><span class="inner"><span class="day">令和4年<br class="modSpOnly">6月～</span><span class="txt">・女性社員の受入拡大に向けて、各事業所の職場環境の現状を把握<br>・現在活躍している女性社員へのヒアリング実施</span></span></li>
-										<li><span class="inner"><span class="day">令和4年<br class="modSpOnly">8月～</span><span class="txt">・定期的に職場巡回し、女性社員に対するフォロー実施</span></span></li>
-										<li><span class="inner"><span class="day">令和5年<br class="modSpOnly">1月～</span><span class="txt">・管理者クラスの社員対象に、ダイバーシティマネジメント研修を実施し、グループ／会社／自部門の課題認識と対策検討の機会を提供</span></span></li>
-										<li><span class="inner"><span class="day">令和5年<br class="modSpOnly">4月～</span><span class="txt">・技術系社員を対象としたキャリアセミナーや座談会を企画・実施し、キャリアアップについての情報提供や意見交換の機会を提供</span></span></li>
+										<li><span class="inner"><span class="day">令和6年<br class="modSpOnly">4月～</span><span class="txt">・女性の応募者数を増やすため、会社ホームページ採用サイトの内容等告知の見直し<br>
+										・リクルーターを選任、技術系職種の魅力を発信<br>
+										・運転職の社員について、新しい職種(土日休みの限定正社員等)の導入</span></span></li>
+										<li><span class="inner"><span class="day">令和6年<br class="modSpOnly">6月～</span><span class="txt">・女性社員の受入拡大に向けて、各事業所の職場環境の現状を把握<br>・現在活躍している女性社員へのヒアリング実施</span></span></li>
+										<li><span class="inner"><span class="day">令和6年<br class="modSpOnly">8月～</span><span class="txt">・定期的に職場巡回し、女性社員に対するフォロー実施</span></span></li>
+										<li><span class="inner"><span class="day">令和7年<br class="modSpOnly">1月～</span><span class="txt">・管理者クラスの社員対象に、ダイバーシティマネジメント研修を実施し、グループ／会社／自部門の課題認識と対策検討の機会を提供</span></span></li>
+										<li><span class="inner"><span class="day">令和7年<br class="modSpOnly">4月～</span><span class="txt">・技術系社員を対象としたキャリアセミナーや座談会を企画・実施し、キャリアアップについての情報提供や意見交換の機会を提供</span></span></li>
 									</ul>
 								</div>
 							</div>
 							<div class="myBlock01 jsFadeUp">
 								<div class="myBlock01__header">
 									<span style="border: 1px #231815 solid; padding: 5px;margin-bottom: 10px; display: inline-block;">目標3：計画期間内に、育児休業に関する水準を以下の通りとする
-										<span style="display: block; margin-left: 5.5rem;">男性社員 ： 育児休業取得率 10％以上にする<br>
+										<span style="display: block; margin-left: 5.5rem;">男性社員 ： 育児休業取得率 30％以上にする<br>
 										女性社員 ： 育児休業取得率・復職率・定着率それぞれ 90％以上を維持する</span></span>
 									<p>【取組：社内制度の活用に向けた情報発信の取り組み】</p>
 								</div>
 								<ul class="modList01">
-									<li><span class="inner"><span class="day">令和4年<br class="modSpOnly">4月～</span><span class="txt">・社内向け両立支援ホームページやガイドブックを活用し、仕事との両立を支援する社内制度の周知徹底<br><br>
-									・男性社員の育児休業取得を促進するためにパンフレット作成し、周知徹底</span></span></li>
+									<li><span class="inner"><span class="day">令和6年<br class="modSpOnly">4月～</span><span class="txt">・育児休業制度の周知マニュアルの作成</span></span></li>
+									<li><span class="inner"><span class="day">令和6年<br class="modSpOnly">6月～</span><span class="txt">・各事業所所属⾧、担当者より育児休業取得に向けた積極的発信の実施</span></span></li>
+									<li><span class="inner"><span class="day">毎年9月ごろ</span><span class="txt">・人事担当者より各事業所所属⾧、担当者へ制度説明会の実施</span></span></li>
 								</ul>
 							</div>
 							<div class="myBlock01 jsFadeUp">
 								<div class="myBlock01__header">
-									<span style="border: 1px #231815 solid; padding: 5px;margin-bottom: 10px; display: inline-block;">目標4：年次有給休暇の取得率を50%以上にする</span>
+									<span style="border: 1px #231815 solid; padding: 5px;margin-bottom: 10px; display: inline-block;">目標4：年次有給休暇の取得率を 65%以上にする</span>
 									<p>【取組：計画取得に向けた取り組み】</p>
 								</div>
 								<ul class="modList01">
@@ -115,35 +119,49 @@ Template Name: 両備ホールディングスのCSR - 行動計画
 							</p>
 						</div>
 						<div class="myBlock jsFadeUp">
-							<h3 class="modTitle04 -bold -indent01"><span class="num">1</span>計画期間：<br class="modSpOnly">令和4年4月1日　～　<br class="modSpOnly">令和6年3月31日までの2年間</h3>
+							<h3 class="modTitle04 -bold -indent01"><span class="num">1</span>計画期間：<br class="modSpOnly">令和6年4月1日　～　<br class="modSpOnly">令和8年3月31日までの2年間</h3>
 						</div>
 						<div class="myBlock jsFadeUp">
 							<h3 class="modTitle04 -bold -indent01"><span class="num">2</span>内容</h3>
 							<div class="myBlock01__header">
 								<span style="border: 1px #231815 solid; padding: 5px;margin-bottom: 10px; display: inline-block;">
 									目標1：計画期間内に、育児休業に関する水準を以下の通りとする
-									<span style="display: block; margin-left: 5.5rem;">男性社員 ： 育児休業取得率 10％以上にする<br>
+									<span style="display: block; margin-left: 5.5rem;">男性社員 ： 育児休業取得率 30％以上にする<br>
 									女性社員 ： 育児休業取得率・復職率・定着率それぞれ 90％以上を維持する</span></span>
 								<p>＜対策＞</p>
 							</div>
 							<ul class="modList01">
-								<li><span class="inner"><span class="day">令和4年<br class="modSpOnly">4月~</span><span class="txt">・社内向け両立支援ホームページやガイドブックを活用し、仕事との両立を支援する社内制度の周知徹底<br>
-								・男性社員の育児休業取得を促進するためにパンフレット作成し、周知徹底</span></span></li>
+								<li><span class="inner"><span class="day">令和6年<br class="modSpOnly">4月~</span><span class="txt">・育児休業制度の周知マニュアルの作成</span></span></li>
+								<li><span class="inner"><span class="day">令和6年<br class="modSpOnly">6月~</span><span class="txt">・各事業所所属⾧、担当者より育児休業取得に向けた積極的発信の実施</span></span></li>
+								<li><span class="inner"><span class="day">毎年9月ごろ</span><span class="txt">・人事担当者より各事業所所属⾧、担当者へ制度説明会の実施</span></span></li>
 							</ul>
 						</div>
 						<div class="jsFadeUp">
 							<div class="myBlock01">
 								<div class="myBlock01__header" style="margin-bottom: 0">
-									<span style="border: 1px #231815 solid; padding: 5px;margin-bottom: 10px; display: inline-block;">目標2：年次有給休暇の取得率を 50%以上にする</span>
+									<span style="border: 1px #231815 solid; padding: 5px;margin-bottom: 10px; display: inline-block;">目標2：年次有給休暇の取得率を 65%以上にする</span>
 									<p>＜対策＞</p>
 								</div>
 								<ul class="modList01">
 								<li><span class="inner"><span class="day">毎年4月~</span><span class="txt">・年次有給休暇の取得状況を確認</span></span></li>
 								<li><span class="inner"><span class="day">毎年6月~</span><span class="txt">・年次有給休暇の計画な取得を推進するため、各部門において取得計画を策定<br>
 								・心身のリフレッシュを促進するため、連続取得についても推進</span></span></li>
-							</ul>
-							<p style="text-align: right; margin-top: 50px;">以 上</p>
+								</ul>
+							</div>
 						</div>
+						<div class="myBlock01 jsFadeUp">
+								<div class="myBlock01__header">
+									<span style="border: 1px #231815 solid; padding: 5px;margin-bottom: 10px; display: inline-block;">目標3：社内福利厚生サービスにおいて、子育てサービス(病児保育利用料等)の導入を実施</span>
+									<p>＜対策＞</p>
+								</div>
+								<ul class="modList01">
+								<li><span class="inner"><span class="day">令和6年<br class="modSpOnly">4月~</span><span class="txt">・病児保育やベビーシッターなどの利用に対し、助成を行う福利厚生サービスを導入<br>
+								・福利厚生サービスの冊子を作成し、社員へ配布し周知を実施<br>
+								・社内電子掲示板等への掲載</span></span></li>
+								<li><span class="inner"><span class="day">毎年3月~</span><span class="txt">・年度内の利用状況を確認<br>
+								・社員へ福利厚生サービスの満足度調査を実施し、ニーズを把握</span></span></li>
+								</ul>
+							<p style="text-align: right; margin-top: 50px;">以 上</p>
 						</div>
 					</div>
 				</div>

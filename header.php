@@ -33,6 +33,7 @@ $gDescription  = get_bloginfo('description');
 	<link rel="apple-touch-icon" sizes="180x180" href="<?php echo get_template_directory_uri(); ?>/apple-touch-icon-180x180.png">
 	<link rel="icon" type="image/png" href="<?php echo get_template_directory_uri(); ?>/android-chrome-256x256.png">
 	<?php wp_head(); ?>
+<meta name="google-site-verification" content="tXRPVF48mNhQOOYKW2vs7liFu0fGRriAWtkqFS-3jjQ" />	
 </head>
 <body <?php if ( is_home() || is_front_page() ) : ?>id="top"<?php else : ?>id="<?php $post = get_page($page_id); echo $post->post_name; ?>"<?php endif; ?>>
 	<?php /* <div id="loading"></div>*/?>

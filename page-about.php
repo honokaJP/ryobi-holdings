@@ -170,7 +170,7 @@ Template Name: 会社概要
 													<dt class="myDlistIn__header">取締役常務執行役員</dt>
 													<dd class="myDlistIn__body">
 														<ul>
-															<li><span class="name">大舘　孝久</span><span class="pos">（両備経営サポートカンパニー財務本部本部長）</span></li>
+															<li><span class="name">大舘　孝久</span><span class="pos">（両備経営サポートカンパニー　財務本部本部長）</span></li>
 														</ul>
 													</dd>
 												</div>
@@ -242,7 +242,7 @@ Template Name: 会社概要
 													<dt class="myDlistIn__header">常務執行役員</dt>
 													<dd class="myDlistIn__body">
 														<ul>
-															<li><span class="name">川上　研二</span><span class="pos">（まちづくりカンパニー長）</span></li>
+															<li><span class="name">川上　研二</span><span class="pos">（不動産特命担当/檉園KM不動産㈱代表取締役）</span></li>
 														</ul>
 													</dd>
 												</div>
@@ -266,6 +266,12 @@ Template Name: 会社概要
 													<dt class="myDlistIn__header">常務執行役員</dt>
 													<dd class="myDlistIn__body">
 														<li><span class="name">荒木　一守</span><span class="pos">（両備トランスポートカンパニー長）</span></li>
+													</dd>
+												</div>
+												<div class="myDlistIn__item">
+													<dt class="myDlistIn__header">常務執行役員</dt>
+													<dd class="myDlistIn__body">
+														<li><span class="name">大上　真司</span><span class="pos">（バスユニット統括カンパニー長）</span></li>
 													</dd>
 												</div>
 												<div class="myDlistIn__item">
@@ -296,7 +302,7 @@ Template Name: 会社概要
 													<dt class="myDlistIn__header">執行役員</dt>
 													<dd class="myDlistIn__body">
 														<ul>
-															<li><span class="name">松田　典久</span><span class="pos">（両備グループ経営戦略本部 飲食部門担当）</span></li>
+															<li><span class="name">松田　典久</span><span class="pos">（両備グループ経営戦略本部 飲食担当）</span></li>
 														</ul>
 													</dd>
 												</div>
@@ -322,19 +328,27 @@ Template Name: 会社概要
 														</ul>
 													</dd>
 												</div>
-												<div class="myDlistIn__item">
+												<!-- <div class="myDlistIn__item">
 													<dt class="myDlistIn__header">執行役員</dt>
 													<dd class="myDlistIn__body">
 														<ul>
 															<li><span class="name">池田　宏祐</span><span class="pos">（両備グループ経営戦略本部 企画担当）</span></li>
 														</ul>
 													</dd>
-												</div>
-												<div class="myDlistIn__item">
+												</div> -->
+												<!-- <div class="myDlistIn__item">
 													<dt class="myDlistIn__header">執行役員</dt>
 													<dd class="myDlistIn__body">
 														<ul>
 															<li><span class="name">大上　真司</span><span class="pos">（バスユニット統括カンパニー長）</span></li>
+														</ul>
+													</dd>
+												</div> -->
+												<div class="myDlistIn__item">
+													<dt class="myDlistIn__header">執行役員</dt>
+													<dd class="myDlistIn__body">
+														<ul>
+															<li><span class="name">星野　勉</span><span class="pos">（両備不動産東京カンパニー 副カンパニー長）</span></li>
 														</ul>
 													</dd>
 												</div>
@@ -342,7 +356,39 @@ Template Name: 会社概要
 													<dt class="myDlistIn__header">執行役員</dt>
 													<dd class="myDlistIn__body">
 														<ul>
-															<li><span class="name">星野　勉</span><span class="pos">（両備不動産東京カンパニー 副カンパニー長）</span></li>
+															<li><span class="name">小川　仁</span><span class="pos">（両備経営サポートカンパニー創夢本部 シニアエキスパート）</span></li>
+														</ul>
+													</dd>
+												</div>
+												<div class="myDlistIn__item">
+													<dt class="myDlistIn__header">執行役員</dt>
+													<dd class="myDlistIn__body">
+														<ul>
+															<li><span class="name">小野田　由季子</span><span class="pos">（両備グループ経営戦略本部 特命企画室 シニアエキスパート）</span></li>
+														</ul>
+													</dd>
+												</div>
+												<div class="myDlistIn__item">
+													<dt class="myDlistIn__header">執行役員</dt>
+													<dd class="myDlistIn__body">
+														<ul>
+															<li><span class="name">嘉悦　登</span><span class="pos">（両備グループ経営戦略本部 両備グループ広報部 部長）</span></li>
+														</ul>
+													</dd>
+												</div>
+												<div class="myDlistIn__item">
+													<dt class="myDlistIn__header">執行役員</dt>
+													<dd class="myDlistIn__body">
+														<ul>
+															<li><span class="name">細谷　尚宏</span><span class="pos">（たまルンプロモーションセンター センター長）</span></li>
+														</ul>
+													</dd>
+												</div>
+												<div class="myDlistIn__item">
+													<dt class="myDlistIn__header">執行役員</dt>
+													<dd class="myDlistIn__body">
+														<ul>
+															<li><span class="name">本田　英修</span><span class="pos">（まちづくりカンパニー長）</span></li>
 														</ul>
 													</dd>
 												</div>
@@ -540,7 +586,7 @@ Template Name: 会社概要
 							</div>
 						</div>
 					</div>
-					<div class="mySection03__inBlock">
+					<!-- <div class="mySection03__inBlock">
 						<div class="container">
 							<div class="jsFadeUp">
 								<h3 class="modTitle03 -mbLarge" aria-hidden="false"><span class="modTitle03__inner">両備ホールディングスグループ</span></h3>
@@ -571,7 +617,7 @@ Template Name: 会社概要
 												<td>3,000</td>
 												<td>1,031</td>
 											</tr>
-											<!-- <tr>
+											<-- <tr>
 												<td>両備フェリー（株）</td>
 												<td>〒702-8003<br>
 												<a href="https://goo.gl/maps/qVGzDzB8aACWvmoBA" target="_blank">岡山県岡山市中区新築港9-1</a></td>
@@ -579,7 +625,7 @@ Template Name: 会社概要
 												<td>2011（平成23）年.4.1</td>
 												<td>1,000</td>
 												<td>36</td>
-											</tr> -->
+											</tr> -- >
 											<tr>
 												<td>津エアポートライン（株）</td>
 												<td>〒514-0010<br>
@@ -621,7 +667,7 @@ Template Name: 会社概要
 								</div>
 							</div>
 						</div>
-					</div>
+					</div> -->
 				</div>
 			</div>
 		</section>

@@ -159,7 +159,7 @@ Template Name: 両備ホールディングスのCSR - 安全への取り組み
 							<h3 class="modTitle04">1.輸送の安全に関する体制</h3>
 							<div>
 								<h4 class="myTtl">交通運輸事業安全管理組織図</h4>
-								<div class="modPcOnly"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/csr/safety/img_organization20220404.png" alt="組織図"></div>
+								<div class="modPcOnly"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/csr/safety/img_organization20241003.png" alt="組織図"></div>
 								<div class="modSpOnly">
 									<a href="<?php echo get_template_directory_uri(); ?>/assets/img/csr/safety/img_organization20220404.pdf" target="_blank" class="modBtn01 -blue -noicon">PDFをダウンロード</a>
 								</div>
@@ -180,8 +180,8 @@ Template Name: 両備ホールディングスのCSR - 安全への取り組み
 							<h3 class="modTitle04">3.事故に関する統計など</h3>
 							<div>
 								<ul class="myList">
-									<li>バス部門<a href="<?php $upload_dir = wp_upload_dir(); echo $upload_dir['baseurl']; ?>/2023/06/bus2023.pdf" target="_blank">PDF</a></li>
-									<li>トラック部門<a href="<?php $upload_dir = wp_upload_dir(); echo $upload_dir['baseurl']; ?>/2023/07/safety-mg2023.pdf" target="_blank">PDF</a></li>
+									<li>バス部門<a href="<?php $upload_dir = wp_upload_dir(); echo $upload_dir['baseurl']; ?>/2024/06/bus2024.pdf" target="_blank">PDF</a></li>
+									<li>トラック部門<a href="<?php $upload_dir = wp_upload_dir(); echo $upload_dir['baseurl']; ?>/2024/06/safety-mg2024.pdf" target="_blank">PDF</a></li>
 									<!-- <li>タクシー部門<a href="https://ryobi-taxi.jp/safety-management/" target="_blank">リンク</a></li> -->
 									<!-- <li>旅客船部門<a href="<?php $upload_dir = wp_upload_dir(); echo $upload_dir['baseurl']; ?>/2021/07/safety-ferry.pdf" target="_blank">PDF</a></li> -->
 								</ul>

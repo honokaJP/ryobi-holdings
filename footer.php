@@ -107,7 +107,7 @@
 						</div>
 						<div class="gFootNav__bottom">
 							<ul>
-								<li><a href="https://www.ryobi-holdings.jp/master/wp-content/uploads/2024/01/中小MAガイドライン（第2版）遵守の宣言について.pdf" target="_blank">中小M&Aガイドライン(第2版)遵守の宣言</a></li>
+								<li><a href="https://www.ryobi-holdings.jp/master/wp-content/uploads/2024/11/中小MAガイドライン（第3版）遵守の宣言について.pdf" target="_blank">中小M&Aガイドライン(第3版)遵守の宣言</a></li>
 								<li><a href="<?php echo home_url();?>/contact/">お問い合わせ</a></li>
 								<li><a href="<?php echo home_url();?>/privacy/">プライバシーポリシー </a></li>
 							</ul>
